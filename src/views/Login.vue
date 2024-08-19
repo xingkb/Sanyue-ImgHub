@@ -43,7 +43,7 @@ export default {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('https://imgbed.sanyue.site/file/0dbd5add3605a0b2e8994.jpg');
+    background-image: url('https://gd-hbimg.huaban.com/b1982a6d95972d6af8512065b0eb7a2a6695b40fb8dc9-cmlDLc');
     background-size: cover;
     background-attachment: fixed;
 }
