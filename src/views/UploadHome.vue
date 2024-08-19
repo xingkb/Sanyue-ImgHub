@@ -21,7 +21,7 @@
             <a href="https://github.com/MarSeventh/CloudFlare-ImgBed">
                 <img class="logo" alt="Sanyue logo" src="../assets/logo.png"/>
             </a> 
-            <h1><a class="main-title" href="https://github.com/MarSeventh/CloudFlare-ImgBed" target="_blank">Sanyue</a> ImgHub</h1>
+            <h1>Telegra.ph</h1>
         </div>
         <UploadForm :selectedUrlForm="selectedUrlForm" :uploadMethod="uploadMethod" class="upload"/>
         <Footer/>
@@ -127,7 +127,7 @@ export default {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('https://imgbed.sanyue.site/file/0dbd5add3605a0b2e8994.jpg');
+    background-image: url('https://gd-hbimg.huaban.com/b1982a6d95972d6af8512065b0eb7a2a6695b40fb8dc9-cmlDLc');
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
